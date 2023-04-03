@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zMB8AwZQVZ6dXixLt/G2u413UjJkdUB0AnmNHHiYPrwKEPkh4Mn3VSEU5KK6GogVdpp4HZ5jpNIt3F9TNBl7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\REPOS\\QUChallenge\\QuChallenge\\QuChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
