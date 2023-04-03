@@ -1,14 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 
 namespace QuChallenge
 {
 
 	public class WordFinder
 	{
-		private IEnumerable<string> matrix;
+		private readonly IEnumerable<string> matrix;
 
 		public WordFinder(IEnumerable<string> matrix)
 		{

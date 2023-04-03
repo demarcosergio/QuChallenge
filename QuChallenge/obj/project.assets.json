@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\REPOS\\QUChallenge\\QuChallenge\\QuChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\REPOS\\Nueva carpeta\\QuChallenge\\QuChallenge\\QuChallenge.csproj",
       "projectName": "QuChallenge",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\REPOS\\QUChallenge\\QuChallenge\\QuChallenge.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\REPOS\\Nueva carpeta\\QuChallenge\\QuChallenge\\QuChallenge.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\REPOS\\QUChallenge\\QuChallenge\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\REPOS\\Nueva carpeta\\QuChallenge\\QuChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
