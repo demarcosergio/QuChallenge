@@ -27,3 +27,18 @@ This method takes the wordstream as a parameter and finds the words in the matri
 - `FindDiagonally()`
 
 These methods find the words in the matrix vertically, horizontally, and diagonally, respectively. Each method takes a word as a parameter and returns an `IEnumerable` of strings with the results.
+
+
+## Tests
+
+The test suite includes tests for the following scenarios:
+
+FindHorizontally_FindsWordInMatrix_ReturnsCorrectResult(): This test checks if the WordFinder class can find a word horizontally in the matrix and return the correct result.
+
+FindVertically_FindsWordInMatrix_ReturnsCorrectResult(): This test checks if the WordFinder class can find a word vertically in the matrix and return the correct result.
+
+FindDiagonally_FindsWordInMatrix_ReturnsCorrectResult(): This test checks if the WordFinder class can find a word diagonally in the matrix and return the correct result.
+
+FindAllPositions_FindsWordInMatrix_ReturnsEmptyResult(): This test checks if the WordFinder class returns an empty result when it fails to find the word in the matrix.
+
+
