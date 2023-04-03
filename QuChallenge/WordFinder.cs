@@ -16,6 +16,9 @@ namespace QuChallenge
 
 		public IEnumerable<string> Find(IEnumerable<string> wordstream)
 		{
+			if (matrix == null || !matrix.Any() || matrix.Count() > 64)
+				throw new ArgumentException("The length or size of the input strings is incorrect");
+
 			var results = new List<string>();
 			foreach (var word in wordstream)
 			{
